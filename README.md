@@ -18,7 +18,7 @@ npm install
 
 ## Usage
 
-Run individual file
+Create desired JavaScript files and use the following command to run them.
 
 ```bash
 npm start -- filename.js
