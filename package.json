@@ -7,7 +7,7 @@
   "author": "",
   "license": "ISC",
   "scripts": {
-    "start": "nodemon --exec babel-node regEx.js"
+    "start": "nodemon --exec babel-node"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
