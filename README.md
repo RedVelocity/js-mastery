@@ -4,7 +4,11 @@ Application to practice modern JavaScript. Extensively uses [Eslint](https://esl
 
 ## Installation
 
-This project requires [nodemon](https://github.com/remy/nodemon) as global dependency. To install nodemon, run the following command.
+Tested with [VSCode](https://code.visualstudio.com/) text editor, requires the following plugins.
+
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - auto formats javascript code on save.
+- [Eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - linter to run airbnb rules in vscode.
+- [nodemon](https://github.com/remy/nodemon) is a global dependency. To install nodemon, run the following command in terminal.
 
 ```bash
 npm install -g nodemon

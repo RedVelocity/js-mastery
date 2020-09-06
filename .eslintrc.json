@@ -10,17 +10,17 @@
     "ecmaVersion": 11
   },
   "rules": {
-    "linebreak-style": ["error", "windows"],
-    "consistent-return": 1,
+    "linebreak-style": 0,
     "import/no-extraneous-dependencies": 0,
+    "no-console": 0,
     "no-underscore-dangle": 1,
-    "no-console": 1,
+    "consistent-return": 1,
     "no-unused-vars": 1,
-    "no-param-reassign": ["error", { "props": false }],
     "no-unused-expressions": [
       1,
       { "allowTernary": true, "allowShortCircuit": true }
-    ]
+    ],
+    "no-param-reassign": ["error", { "props": false }]
   },
   "plugins": ["prettier"]
 }
