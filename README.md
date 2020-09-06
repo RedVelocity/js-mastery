@@ -1,6 +1,6 @@
 # JS Starter
 
-Application to practice modern JavaScript. Extensively uses [Eslint Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) rules to enforce good coding practices. [Babel](https://babeljs.io) to enable latest JS features node compatible.
+Application to practice modern JavaScript. Extensively uses [Eslint](https://eslint.org) [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript) rules to enforce good coding practices. [Babel](https://babeljs.io) to enable latest JS features node compatible.
 
 ## Installation
 
