@@ -1,4 +1,4 @@
-# JS Mastery
+# JS Starter
 
 Application to practice modern JavaScript. Extensively uses [Eslint](https://eslint.org) rules to enforce good coding practices and [Babel](https://babeljs.io) to make latest JS features node compatible.
 
