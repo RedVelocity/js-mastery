@@ -5,7 +5,7 @@
     "node": true,
     "browser": true
   },
-  "extends": ["airbnb", "prettier", "prettier/react"],
+  "extends": ["airbnb-base", "prettier"],
   "parserOptions": {
     "ecmaVersion": 11
   },
@@ -22,5 +22,5 @@
       { "allowTernary": true, "allowShortCircuit": true }
     ]
   },
-  "plugins": ["prettier", "react"]
+  "plugins": ["prettier"]
 }
