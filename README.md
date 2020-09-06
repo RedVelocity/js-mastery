@@ -22,10 +22,10 @@ npm install --dev
 
 ## Usage
 
-Create desired JavaScript files and use the following command to run them.
+Create desired JavaScript files inside javascript folder and pass the file name as param to start script.
 
 ```bash
-npm start -- filename.js
+npm start -- javascript/filename.js
 ```
 
 ## Contributing
