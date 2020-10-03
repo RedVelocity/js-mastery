@@ -1,6 +1,7 @@
-class Brand {
-  get brands() {
-    return ['boo', 'haha'];
+class Foo {
+  get Bar() {
+    this.bar = ['foo', 'bar'];
+    return this.bar;
   }
 
   constructor() {
@@ -8,5 +9,7 @@ class Brand {
   }
 }
 
-const brand = new Brand();
-console.log(brand.brands);
+const foo = new Foo();
+console.log(foo.Bar);
+console.log('hello' || 'world');
+console.log('foo' && 'bar');
